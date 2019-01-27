@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/**
+ * NPC Class
+ */
 public class NPC : Interactable
 {
     public string[] dialogue;

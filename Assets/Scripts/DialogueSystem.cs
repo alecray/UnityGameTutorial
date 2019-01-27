@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI; // User Interface namespace
 
+/**
+ * DialogueSystem class
+ */
 public class DialogueSystem : MonoBehaviour
 {
     public static DialogueSystem Instance { get; set; }
