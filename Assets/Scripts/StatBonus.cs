@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/**
+ * StatBonus Class
+ */
 public class StatBonus 
 {
     public int BonusValue { get; set; }

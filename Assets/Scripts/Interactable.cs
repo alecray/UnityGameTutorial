@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
+/**
+ * Interactable class
+ */
 public class Interactable : MonoBehaviour
 {
     [HideInInspector]
